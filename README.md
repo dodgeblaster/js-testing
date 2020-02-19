@@ -3,6 +3,8 @@
 # Introduction
 Click [here](https://martinfowler.com/articles/practical-test-pyramid.html) for an introduction to testing and the testing pyramid
 
+As a general rule, a good alocation of tests are 70/20/10, as is suggested in this [Google Testing Article](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
+
 This repository goes over the following:
 
 ### 1. How to use jest
